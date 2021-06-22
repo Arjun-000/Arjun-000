@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arjun-000.
-- 👀 I’m interested in app development.
-- 🌱 I’m currently learning B.Tech
+- 👀 I’m interested in app development and ethical hacking
+- 🌱 I’m currently learning B.Tech.
 - 💞️ I’m looking to collaborate .
 - 📫 Reach me through arjunrullas007@gmail.com
 
